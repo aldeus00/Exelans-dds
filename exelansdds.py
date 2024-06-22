@@ -17,7 +17,7 @@ os.system("clear")
 #####################
 exelans = Figlet(font="doom", width=160)
 gf.print_with_gradient(exelans.renderText("LUCIFER"), Color("#E13556"), Color("#FFDD00"))
-print("[" + B + "" + R + "#" + N + "] " + B + "" + R + "Author : LUCIFER" + N + "   LUCIFER Dos From - " + B + "" + R + "WH1T3" + N)
+print("[" + B + "" + R + "#" + N + "] " + B + "" + R + "HACKER : LUCIFER" + N + "   LUCIFER Dos From - " + B + "" + R + "WH1T3" + N)
 print()
 print("\033[32m================================================================\033[0m")
 print("\033[32mTool devoloped : LUCIFER \033[0m")
